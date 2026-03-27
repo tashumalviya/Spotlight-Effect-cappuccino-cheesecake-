@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    background-color: black;
+
+}
+
+.text {
+    position: relative;
+    font-size: 3rem;
+    text-align: center;
+    text-shadow: 0 0 15px #adadad, 0 0 30px #dbbf94, 0 0 45px #e2a678;
+}
+
+:root {
+    --x: 400px;
+    --y: 400px;
+}
+
+body {
+    background-image: url(https://i.pinimg.com/1200x/91/43/f0/9143f0ffd9a32e20853564cc45a83150.jpg);
+    background-size: cover;
+}
+
+.box {
+    height: 100%;
+    width: 100%;
+    background: radial-gradient(250px at var(--x) var(--y), rgba(255, 255, 255, 0) 0%, rgba(0, 0, 0, 0.556) 80%, rgba(0, 0, 0, 0.834));
+}
+
+body {
+    cursor: none;
+}
