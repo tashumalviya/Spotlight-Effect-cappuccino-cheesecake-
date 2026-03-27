@@ -12,4 +12,4 @@ Interactive spotlight effect with a cozy coffee & cheesecake theme! Move your mo
 ## How to Use
 1. Clone repo:  
    ```bash
-   git clone https://github.com/YourUsername/spotlight-effect-cappuccino-cheesecake.git
+   git clone https://github.com/tashumalviya/spotlight-effect-cappuccino-cheesecake.git
